@@ -1,0 +1,25 @@
+{
+  "name": "lifetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavellerson/lifeTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavellerson/lifeTracker/issues"
+  },
+  "homepage": "https://github.com/cavellerson/lifeTracker#readme",
+  "dependencies": {
+    "0g": "^0.0.9",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "npm": "^8.19.1"
+  }
+}
